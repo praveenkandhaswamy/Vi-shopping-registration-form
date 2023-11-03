@@ -1,2 +1,1 @@
-# Vi-shopping-registration-form
-this is a shopping registration form.
+#Vi-shopping-registration-form
